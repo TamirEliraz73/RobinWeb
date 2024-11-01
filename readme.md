@@ -14,7 +14,7 @@ Here, you can find all the cool stuff about the game—like characters, levels, 
 - **Tailwind CSS Integration**: Get ready for stylish and easy-to-change designs!
 
 Curious about the game? Check out the source code and the latest updates on
-my [GitHub](https://github.com/your-username/robin)! 🚀 Whether you’re a player looking to improve your skills or a
+my [GitHub](https://github.com/TamirEliraz73/Robin)! 🚀 Whether you’re a player looking to improve your skills or a
 fellow developer who wants to see how it’s made, this site is here to help you explore the world of ***Robin!***
 
 ## Dependencies
